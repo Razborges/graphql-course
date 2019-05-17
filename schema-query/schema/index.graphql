@@ -1,0 +1,6 @@
+#import Usuario, Perfil from 'Usuario.graphql'
+#import Produto from 'Produto.graphql'
+#import Query from 'Query.graphql'
+
+# não tem date como tipo primitivo escalar, aqui cria o tipo
+scalar Date
